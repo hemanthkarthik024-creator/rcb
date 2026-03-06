@@ -1,1 +1,2 @@
 csk = chennai super kings
+rcb = royal challengers bengaluru
